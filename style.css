@@ -1,0 +1,15 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    margin: 0px;
+}
+
+#object_name{
+    background-color: white;
+    width: 200px;
+    border-radius: 5px;
+}
+
+#object_name_textbox{
+    width: 300px;
+}
